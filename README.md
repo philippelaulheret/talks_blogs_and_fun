@@ -21,6 +21,7 @@ Bonus mention for off-the-cuff reverse engineering of a (suspected) North-Korean
 Microsoft Azure Sphere Bug Bounty ($160k bounty): [blog](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/our-experiences-participating-in-microsofts-azure-sphere-bounty-program/) and [white-paper](https://www.mcafee.com/enterprise/en-us/assets/white-papers/wp-prisoner-of-azure-kaban.pdf)
 
 [McAfee Enterprise ATR Uncovers Vulnerabilities in Globally Used B. Braun Infusion Pump](https://www.trellix.com/en-in/about/newsroom/stories/research/mcafee-enterprise-atr-uncovers-vulnerabilities-in-globally-used-b-braun-infusion-pump.html)
+
 [Unauthenticated Remote Code Execution in a Wide Range of DrayTek Vigor Routers](https://www.trellix.com/en-us/about/newsroom/stories/research/rce-in-dratyek-routers.html)
 
 
