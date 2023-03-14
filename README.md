@@ -27,7 +27,7 @@ Microsoft Azure Sphere Bug Bounty ($160k bounty): [blog](https://www.mcafee.com/
 
 ### Misc Technical writing
 ---
-[Glicthing NAND Flash](https://www.trellix.com/en-us/assets/docs/atr-library/ms-glitching-uboot_als5.pdf)
+[Glitching NAND Flash](https://www.trellix.com/en-us/assets/docs/atr-library/ms-glitching-uboot_als5.pdf)
 
 [Code Emulation with Unicorn](https://www.trellix.com/en-us/assets/docs/atr-library/tr-emulating-code-with-unicorn.pdf)
 
